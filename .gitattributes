@@ -1,0 +1,2 @@
+Backend/models/*.h5 filter=lfs diff=lfs merge=lfs -text
+Backend/models/*.pth filter=lfs diff=lfs merge=lfs -text
